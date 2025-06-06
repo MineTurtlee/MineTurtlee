@@ -10,7 +10,7 @@ I know how to write code in:
 
 In the meantime, when I am free and feel bored, I also *hackintosh*! (time to go get a Mac)
 
-I also own **[Actionizer](https://github.com/Actionizer)**
+I also own **[Actionizer](https://github.com/Actionizer)**, which is basically the stuff I talked about above, "build things".
 
 
 <!--
