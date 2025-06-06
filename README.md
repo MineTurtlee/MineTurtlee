@@ -1,3 +1,7 @@
+![Metrics](/github-metrics.svg)
+
+
+
 ## Hi there 👋
 
 I'm **MineTurtlee**!
