@@ -13,6 +13,7 @@ I know how to write code in:
 - HTML (I suck at this and the one above)
 - Python (Though I also suck but I do know basic stuff)
 - C# (Oh no, I suck at this.)
+- YAML (Mostly GitHub Actions scripts)
 
 In the meantime, when I am free and feel bored, I also *hackintosh*! (time to go get a Mac)
 
