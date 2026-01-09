@@ -7,7 +7,7 @@
 ## Hi there 👋
 
 I'm **MineTurtlee**!
-I'm a student, a <img src="https://cdn.discordapp.com/emojis/1375988512062701638.webp?size=24"> user and a hobbyist developer who build things (patched or non-patched) to use for some things.
+I'm a student, a <img src="/mace.png"> user and a hobbyist developer who build things (patched or non-patched) to use for some things.
 I know how to write code in:
 - CSS
 - HTML (I suck at this and the one above)
