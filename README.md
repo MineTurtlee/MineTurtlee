@@ -9,6 +9,7 @@
 I'm **MineTurtlee**!
 I'm a student, a <img src="/mace.png"> user and a hobbyist developer who build things (patched or non-patched) to use for some things.
 I know how to write code in:
+- Swift (oooh this one is coolll)
 - CSS
 - HTML (I suck at this and the one above)
 - Python (Though I also suck but I do know basic stuff)
